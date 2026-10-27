@@ -1,5 +1,9 @@
 # php-gd-playing
 
+<p align="center">
+  <img src=".github/logo.png" alt="php-gd-playing logo" width="128" />
+</p>
+
 Experiments with the PHP GD image library.
 
 ## Contents
